@@ -1,0 +1,8 @@
+.idea/
+checkstyle.xml
+data/
+lib/
+out/
+SIU.iml
+UML_Design_Diagram.png
+.DS_Store 
